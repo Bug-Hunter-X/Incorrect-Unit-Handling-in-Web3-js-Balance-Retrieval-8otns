@@ -1,0 +1,2 @@
+# Incorrect Unit Handling in Web3.js Balance Retrieval
+This repository demonstrates a common error in web3.js when retrieving account balances. The issue stems from not converting the balance from wei (the smallest unit of ether) to ether.  The provided code snippet shows the incorrect implementation and a corrected version with proper unit conversion.
